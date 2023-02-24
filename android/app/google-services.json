@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "885027294102",
+    "project_id": "modernazul-c3458",
+    "storage_bucket": "modernazul-c3458.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885027294102:android:4799388dcc790c4fc3abb7",
+        "android_client_info": {
+          "package_name": "com.mycompany.modernazul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885027294102-ri9fvf5bj1c3umep2j6ik6i5c0ie2g9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.modernazul",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "885027294102-2g9ndbtkg95o3csg2ia7tsogokrhst7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGJ0O2R75_zfYX-iLpgFjO8kv8RgM6_dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885027294102-2g9ndbtkg95o3csg2ia7tsogokrhst7m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "885027294102-up35r926fcv04h0mh7rgb5kpgmqk71vf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.modernazul"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
